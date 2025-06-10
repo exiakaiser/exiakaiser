@@ -1,14 +1,14 @@
 <div align="center">
-<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=1337;luhux1337;:D">
+<img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=1337;exiakaiser;:D">
 </div>
 
 <div align="center">
-   <img width="25%" src="https://komarev.com/ghpvc/?username=utw0&color=070000">
+   <img width="25%" src="https://komarev.com/ghpvc/?username=exiakaiser&color=070000">
 </div>
 <div align="center">
-    <a href="https://instagram.com/utkukosemm" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://open.spotify.com/user/aoj0e0b3twag42g0h8nxqm4ms?si=ce64f77da0864d47" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://discord.gg/luppux" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://instagram.com/exiakaiser" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://open.spotify.com/user/313fylv5e6nv7ivnzzrvlk542ete?si=04bb9c6565f242d4" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://discord.gg/marsilya" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 
