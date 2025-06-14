@@ -15,13 +15,13 @@
 ```js
 class luhux {
 constructor(options) {
-this.name = "Utku",
-this.age = 21,
-this.discord = "luhux",
-this.discordId = "341592492224806914"
+this.name = "Poyraz",
+this.age = 20,
+this.discord = "exiakaiser",
+this.discordId = "263800520135671809"
   };
 }
-module.exports = luhux;
+module.exports = exiakaiser;
 ```
 #
 
